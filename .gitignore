@@ -1,4 +1,2 @@
-# BEGIN: /c:/Users/KUP/Desktop/Code/incident-io/.gitignore
-./incident_io_venv
-
-# END: /c:/Users/KUP/Desktop/Code/incident-io/.gitignore
+# .gitignore
+incident_io_venv/
